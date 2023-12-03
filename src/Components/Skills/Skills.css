@@ -1,0 +1,8 @@
+.skills-main{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 200px;
+}
+.front-dev a{
+    padding: 10px;
+}
