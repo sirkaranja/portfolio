@@ -1,6 +1,7 @@
 .main-about{
     align-items: center;
     display: flex;
+    padding-top: 500px;
 }
 .details{
     font-size: medium;
