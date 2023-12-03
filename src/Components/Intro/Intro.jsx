@@ -47,7 +47,7 @@ function Intro() {
       </div>
     </div>
     <div className="img-me">
-      <img src="https://shorturl.at/jlxzC" alt="" srcset="" />
+      <img src="https://shorturl.at/otvzG" alt="" srcset="" />
     </div>
   </div>
   )
