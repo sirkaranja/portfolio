@@ -1,0 +1,33 @@
+.main-port{
+    text-align: center;
+    padding: 20px;
+}
+.portfolio-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .project-info {
+    width: calc(33.33% - 20px); 
+    margin: 10px; 
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    position: relative; 
+  overflow: hidden; 
+  }
+  .project-info img{
+    position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+ object-fit: contain;
+  }
+  .project-info a{
+    padding: 15px;
+    display: flex; 
+  margin-top: 10px; 
+  text-decoration: none; 
+  }
