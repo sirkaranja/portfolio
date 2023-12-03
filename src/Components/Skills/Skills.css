@@ -4,6 +4,12 @@
     padding-left: 200px;
     padding-top: 400px;
 }
-.front-dev a{
+.front-dev  a{
     padding: 10px;
+}
+.back-end a{
+    padding: 10px;
+}
+.icon{
+    size: 30px;
 }

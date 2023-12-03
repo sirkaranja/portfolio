@@ -30,21 +30,21 @@ function Skills() {
         <div className="back-end">
             <h3>Backend Development</h3>
             <a href=''>
-            <FontAwesomeIcon icon={''} className="icon" />
+            <FontAwesomeIcon icon={faPython} className="icon" />
         </a>
          <a href=''>
-          <FontAwesomeIcon icon={''} className="icon" />
+          <FontAwesomeIcon icon={faPython } className="icon" />
         </a>
-        {/*
+        
         <a href=''>
-          <FontAwesomeIcon icon={faLink} className="icon" />
-        </a>
-        <a href=''>
-          <FontAwesomeIcon icon={faFlask} className="icon" />
+          <FontAwesomeIcon icon={faPython} className="icon" />
         </a>
         <a href=''>
-          <FontAwesomeIcon icon={faBootstrap} className="icon" />
-        </a> */}
+          <FontAwesomeIcon icon={faPython} className="icon" />
+        </a>
+        <a href=''>
+          <FontAwesomeIcon icon={faPython} className="icon" />
+        </a>
         </div>
     </div>
   )
