@@ -1,0 +1,16 @@
+
+
+.intro-text {
+    padding-left: 400px;
+    margin-top: 100px; 
+    color: white;
+    
+  }
+  
+  .intro-text h1 {
+    font-size: 30px; 
+  }
+  
+  .intro-text p {
+    font-size: 1.2em; 
+  }
