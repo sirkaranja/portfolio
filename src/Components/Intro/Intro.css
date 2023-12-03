@@ -45,3 +45,10 @@
     align-items: center;
     
   }
+.img-me{
+  position: relative;
+  width: auto;
+  height: 650px;
+  background-color: #f39c12;
+  clip-path: polygon(50% 0%, 100% 2%, 82% 100%, 18% 100%, 0% 38%);
+}

@@ -46,6 +46,9 @@ function Intro() {
         </Link>
       </div>
     </div>
+    <div className="img-me">
+      <img src="https://shorturl.at/jlxzC" alt="" srcset="" />
+    </div>
   </div>
   )
 }
