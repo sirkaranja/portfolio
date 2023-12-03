@@ -4,7 +4,9 @@ function About() {
   return (
    <><div className="main-about">
           <div className="img-d">
-              <img src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg" alt="img" srcset="" />
+              <img src=" https://shorturl.at/jlxzC " alt="img" srcset="" />
+              
+            
           </div>
           <div className="details">
               <h1>About Me</h1>
