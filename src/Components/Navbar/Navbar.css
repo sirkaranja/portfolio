@@ -1,0 +1,36 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+ justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  z-index: 1000; /*avbar stays on top of other content */
+}
+
+.logo img {
+  width: 50px; /* Adjust the width of the logo as needed */
+  height: auto;
+}
+
+.nav-links ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links a:hover {
+  color: #3c4a91;
+}
