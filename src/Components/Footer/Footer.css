@@ -1,0 +1,34 @@
+
+.footer {
+    background-color: #0e101b;
+    color: #fff;
+    padding: 30px;
+    align-items: center;
+  }
+  
+  .details,
+  .social-icon,
+  .cpy {
+    text-align: center;
+  }
+  
+  .details h4 {
+    margin-bottom: 10px;
+  }
+  
+  .details p {
+    margin: 5px 0;
+  }
+  
+  .social-icon a {
+    color: #566cd8;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .cpy {
+    font-size: 14px;
+
+    
+  }
+  
