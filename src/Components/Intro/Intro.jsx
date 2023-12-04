@@ -16,10 +16,10 @@ function Intro() {
     <div className="intro-text">
     
     <div className="social-icons">
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/sirkaranja">
           <FontAwesomeIcon icon={faGithub} className="icon" />
         </a>
-        <a href="https://medium.com/yourusername">
+        <a href="https://medium.com/@sirkaranja12">
           <FontAwesomeIcon icon={faMedium} className="icon" />
         </a>
         <a href="https://instagram.com/yourusername">
