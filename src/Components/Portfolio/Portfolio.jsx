@@ -8,13 +8,13 @@ function Portfolio() {
     <h3>Portfolio</h3>
     <div className="portfolio-container">
     <div className="project-info">
-        <img src="https://shorturl.at/bzFGT" alt="" />
-          <h3>Tripelo Agency</h3>
+        <img src="" alt="" />
+          <h3>Appointment Booking</h3>
           <p>Creating responsive and user-friendly websites using modern technologies.</p>
-          <a href="https://github.com/yourusername">Github
+          <a href="https://github.com/sirkaranja/Dms--Appointment-Booking">Github
           <FontAwesomeIcon icon={faGithub} className="icon" />
         </a>
-        <a href="https://github.com/yourusername">Live Demo
+        <a href="https://appoint-lilac.vercel.app/">Live Demo
           <FontAwesomeIcon icon={faGithub} className="icon" />
         </a>
         </div>
@@ -31,7 +31,7 @@ function Portfolio() {
         </div>
         <div className="project-info">
         <img src="https://shorturl.at/bzFGT" alt="" />
-          <h3>Uber clone</h3>
+          <h3>Car Rental</h3>
           <p>Creating responsive and user-friendly websites using modern technologies.</p>
           <a href="https://github.com/yourusername">Github
           <FontAwesomeIcon icon={faGithub} className="icon" />
@@ -42,7 +42,7 @@ function Portfolio() {
         </div>
         <div className="project-info">
         <img src="https://shorturl.at/bzFGT" alt="" />
-          <h3>Uber clone</h3>
+          <h3>Laundry Servies</h3>
           <p>Creating responsive and user-friendly websites using modern technologies.</p>
           <a href="https://github.com/yourusername">Github
           <FontAwesomeIcon icon={faGithub} className="icon" />
