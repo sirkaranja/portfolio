@@ -8,16 +8,23 @@
   
   .img-container {
     margin-right: 20px; 
+
   }
+img2{
+  width: 20%;
+}
   
   .details-container {
     display: flex;
     flex-direction: column;
-    max-width: 600px;
+    max-width: 700px;
+    padding-left: 250px;
   }
   
   .details {
-    font-size: 18px;
+    font-size: 15px;
+    font-family:sans-serif, 'Poppins';
+    opacity: 90%;
   }
   
   .details h1 {
@@ -32,7 +39,7 @@
   
   .btn-cv {
     background-color: blue;
-    width: 200px;
+    width: 180px;
     height: 40px;
     margin-top: 20px;
     outline: none;
@@ -44,5 +51,5 @@ p{
     text-align:left;
 }
 .big-number {
-    font-size: 28px;
+    font-size: 15px;
   }
