@@ -1,5 +1,7 @@
 import React from 'react';
-import './Navbar.css'; 
+import './Navbar.css';
+
+import About from '../About/About'
 
 const Navbar = () => {
   return (
@@ -10,7 +12,7 @@ const Navbar = () => {
       <div className="nav-links">
         <ul>
           <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href={{About}}>About</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
