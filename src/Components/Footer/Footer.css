@@ -1,0 +1,44 @@
+/* Footer.css */
+
+.footer {
+    background-color: #0056b3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 1470PX;
+}
+
+.details {
+    margin-bottom: 20px;
+}
+
+.details h4 {
+    margin-bottom: 10px;
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+.social-icon {
+    margin-bottom: 20px;
+}
+
+.social-icon a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.social-icon a:hover {
+    opacity: 0.8;
+}
+
+.cpy {
+    font-size: 14px;
+}
+
+.cpy p {
+    margin: 10px 0;
+}
